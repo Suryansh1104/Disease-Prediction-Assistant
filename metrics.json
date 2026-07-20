@@ -1,0 +1,12 @@
+{
+  "best_model_name": "Logistic Regression",
+  "best_model_accuracy": 0.9773,
+  "all_results": {
+    "Logistic Regression": 0.9773,
+    "KNN": 0.9773,
+    "Decision Tree": 0.4545
+  },
+  "n_diseases": 22,
+  "n_symptoms": 62,
+  "n_training_rows": 1320
+}
